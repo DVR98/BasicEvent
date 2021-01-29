@@ -20,24 +20,26 @@ namespace BasicEvent
 
             Console.WriteLine("Please enter a number");
 
-            //Get user input
+            //Get and Validate user input
             try
             {
+                //Cast input string as int
                 num = int.Parse(Console.ReadLine());
+
+                // Call CheckBalance method on the ep object
+                // It will invoke the ep.evt delegate if the balance exceeds 250
+                ep.CheckBalance(num);
             }
             catch (FormatException e) 
             {
+                //Handle throwned format exception(common exception)
                 Console.WriteLine(e.Message);
-                throw;
             }
             catch (Exception e)
             {
+                //Handle any other form of exception that is thrown (uncommon exceptions)
                 Console.WriteLine("{0} Exception caught.", e);
             }
-
-            // Call CheckBalance method on the ep object
-            // It will invoke the ep.evt delegate if the balance exceeds 250
-            ep.CheckBalance(num);
         }
     }
 
