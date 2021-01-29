@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duran\\Desktop\\BasicEvent\\BasicEvent.csproj": {}
+    "D:\\Durant\\Projects\\BasicEvent\\BasicEvent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duran\\Desktop\\BasicEvent\\BasicEvent.csproj": {
+    "D:\\Durant\\Projects\\BasicEvent\\BasicEvent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duran\\Desktop\\BasicEvent\\BasicEvent.csproj",
+        "projectUniqueName": "D:\\Durant\\Projects\\BasicEvent\\BasicEvent.csproj",
         "projectName": "BasicEvent",
-        "projectPath": "C:\\Users\\duran\\Desktop\\BasicEvent\\BasicEvent.csproj",
+        "projectPath": "D:\\Durant\\Projects\\BasicEvent\\BasicEvent.csproj",
         "packagesPath": "C:\\Users\\duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duran\\Desktop\\BasicEvent\\obj\\",
+        "outputPath": "D:\\Durant\\Projects\\BasicEvent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duran\\AppData\\Roaming\\NuGet\\NuGet.Config"
