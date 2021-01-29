@@ -1,0 +1,16 @@
+C:\Users\duran\Desktop\BasicEvent\bin\Debug\net5.0\BasicEvent.exe
+C:\Users\duran\Desktop\BasicEvent\bin\Debug\net5.0\BasicEvent.deps.json
+C:\Users\duran\Desktop\BasicEvent\bin\Debug\net5.0\BasicEvent.runtimeconfig.json
+C:\Users\duran\Desktop\BasicEvent\bin\Debug\net5.0\BasicEvent.runtimeconfig.dev.json
+C:\Users\duran\Desktop\BasicEvent\bin\Debug\net5.0\BasicEvent.dll
+C:\Users\duran\Desktop\BasicEvent\bin\Debug\net5.0\ref\BasicEvent.dll
+C:\Users\duran\Desktop\BasicEvent\bin\Debug\net5.0\BasicEvent.pdb
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\BasicEvent.csprojAssemblyReference.cache
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\BasicEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\BasicEvent.AssemblyInfoInputs.cache
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\BasicEvent.AssemblyInfo.cs
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\BasicEvent.csproj.CoreCompileInputs.cache
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\BasicEvent.dll
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\ref\BasicEvent.dll
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\BasicEvent.pdb
+C:\Users\duran\Desktop\BasicEvent\obj\Debug\net5.0\BasicEvent.genruntimeconfig.cache
